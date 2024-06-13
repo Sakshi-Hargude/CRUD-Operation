@@ -1,0 +1,15 @@
+C:\Users\PC 3\source\repos\FormS\FormS\bin\Debug\FormS.exe.config
+C:\Users\PC 3\source\repos\FormS\FormS\bin\Debug\FormS.exe
+C:\Users\PC 3\source\repos\FormS\FormS\bin\Debug\FormS.pdb
+C:\Users\PC 3\source\repos\FormS\FormS\bin\Debug\MySql.Data.dll
+C:\Users\PC 3\source\repos\FormS\FormS\obj\Debug\FormS.csproj.AssemblyReference.cache
+C:\Users\PC 3\source\repos\FormS\FormS\obj\Debug\FormS.AddMarkForm.resources
+C:\Users\PC 3\source\repos\FormS\FormS\obj\Debug\FormS.AddStudentForm.resources
+C:\Users\PC 3\source\repos\FormS\FormS\obj\Debug\FormS.Form1.resources
+C:\Users\PC 3\source\repos\FormS\FormS\obj\Debug\FormS.Properties.Resources.resources
+C:\Users\PC 3\source\repos\FormS\FormS\obj\Debug\FormS.UpdateMarkForm.resources
+C:\Users\PC 3\source\repos\FormS\FormS\obj\Debug\FormS.csproj.GenerateResource.cache
+C:\Users\PC 3\source\repos\FormS\FormS\obj\Debug\FormS.csproj.CoreCompileInputs.cache
+C:\Users\PC 3\source\repos\FormS\FormS\obj\Debug\FormS.csproj.Up2Date
+C:\Users\PC 3\source\repos\FormS\FormS\obj\Debug\FormS.exe
+C:\Users\PC 3\source\repos\FormS\FormS\obj\Debug\FormS.pdb
